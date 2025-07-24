@@ -34,3 +34,6 @@ B. Chart Requirement
 ## 📸 Dashboard Preview
 <a href="https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG">View Dashboard</a>
 
+## 📌 Disclaimer
+
+This project is adapted from a public tutorial. I used it as a learning resource to improve my skills in data analysis and dashboarding. All queries, dashboard designs, and interpretations were created by me during the process.
