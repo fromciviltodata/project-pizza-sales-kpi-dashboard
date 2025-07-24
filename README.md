@@ -22,3 +22,12 @@ B. Chart Requirement
 7.	Bottom 5 Worst seller Pizzas by Total Orders
 8.	Timeline Slicer
 
+## 🛠 Tools Used
+
+- **MySQL** for querying data
+- **Excel** for dashboard & visualization
+- **MS Word** for SQL documentation
+
+## 📸 Dashboard Preview
+
+
