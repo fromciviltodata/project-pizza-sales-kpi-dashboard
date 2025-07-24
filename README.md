@@ -28,6 +28,9 @@ B. Chart Requirement
 - **Excel** for dashboard & visualization
 - **MS Word** for SQL documentation
 
+## Dataset used
+<a href="https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/project_pizza_sales_excel.xlsx">Dataset</a>
+
 ## 📸 Dashboard Preview
 <a href="https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG">View Dashboard</a>
 
