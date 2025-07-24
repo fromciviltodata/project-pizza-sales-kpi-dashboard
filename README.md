@@ -13,11 +13,12 @@ A. KPIs
 5. Average Pizzas Per Order Value
 
 B. Chart Requirement
-  1.Daily Order Trends
-  2.Hourly Order Trends
-  3.Percentage of Sales by Pizza Category
-  4.Percentage of Sale by Pizza Size
-  5.Total Pizzas Sold By Pizza Category
-  6.Top 5 Bestseller by Pizzas Total orders
-  7.Bottom 5 Worstseller Pizzas by Total Orders
-  8. Timeline Slicer
+1.	Daily Order Trends
+2.	Hourly Order Trends
+3.	Percentage of Sales by Pizza Category
+4.	Percentage of Sale by Pizza Size
+5.	Total Pizzas Sold by Pizza Category
+6.	Top 5 Bestseller by Pizzas Total orders 
+7.	Bottom 5 Worst seller Pizzas by Total Orders
+8.	Timeline Slicer
+
