@@ -29,5 +29,5 @@ B. Chart Requirement
 - **MS Word** for SQL documentation
 
 ## 📸 Dashboard Preview
-
+<a href="https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG">View Dashboard</a>
 
