@@ -29,6 +29,9 @@ B. Chart Requirement
 - **MS Word** for SQL documentation
 
 ## Dataset used
+📦 The dataset contains 48,000+ rows of pizza order transactions, allowing deep exploration into patterns, product sales, and time-based performance.
+Below dataset has only 1000 rows for learning purpose.
+
 <a href="https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/project_pizza_sales_excel.xlsx">Dataset</a>
 
 ## 📸 Dashboard Preview
