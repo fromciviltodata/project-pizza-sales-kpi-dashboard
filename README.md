@@ -1,2 +1,4 @@
 # 🍕 Pizza Sales Analysis Dashboard (Excel + SQL)
-Dynamic Sales dashboard and KPI analysis using Excel and MySQL on pizza store data.
+This project analyzes sales data from a fictional pizza store to derive actionable business insights using SQL and Excel.
+
+## 🔍 Objective
