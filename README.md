@@ -35,7 +35,7 @@ Below dataset has only 1000 rows for learning purpose.
 <a href="https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/project_pizza_sales_excel.xlsx">Dataset</a>
 
 ## 📸 Dashboard Preview
-[Dashboard Demo GIF](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/Dashboard_GIF)
+[Dashboard Demo GIF](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/demo_dashboard_gif.gif)
 
 <a href="https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG">View Dashboard</a>
 
