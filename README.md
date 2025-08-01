@@ -22,7 +22,7 @@ This project demonstrates how to build a complete sales performance dashboard us
      Bottom 5 Worst seller by Total Orders
      Slicer for time-based filtering (Quarter , Year)
 
-## 💡 Project Workflow
+## Project Workflow
 **1. Data Cleaning**
 
 
@@ -55,7 +55,7 @@ This project demonstrates how to build a complete sales performance dashboard us
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 **Microsoft Excel** – Pivot Tables, Charts, Calculations
 
 **MySQL** – Data Querying & KPI Generation
@@ -65,7 +65,7 @@ This project demonstrates how to build a complete sales performance dashboard us
 
 
 ---
-## 📦 Dataset
+## Dataset
 
 The original dataset contains over 48,000 rows of pizza order transactions.  
 For learning and GitHub sharing purposes, a dummy dataset with ~1,000 rows is used here.
@@ -75,18 +75,30 @@ For learning and GitHub sharing purposes, a dummy dataset with ~1,000 rows is us
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 👉 [View Dashboard](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG)
 
 ---
-## 📄 Query Documentation
+## Query Documentation
 All SQL queries used to generate KPIs and trends are documented with screenshots of outputs in the file:
 
 👉 [View Documentation](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx)
 
-## 🧾 Final Conclusion
-This project shows how structured SQL analysis and Excel visualization can uncover valuable business insights from raw transactional data. By identifying sales patterns, peak business hours, and best-performing products, stakeholders can make more informed marketing, inventory, and staffing decisions.
+## Final Conclusion
+The analysis reveals that:
+
+Most sales occur during lunch and dinner hours, indicating peak demand and the need for increased staffing or oven capacity at those times.
+
+Large-sized pizzas dominate overall orders, suggesting it may be the most profitable or preferred size.
+
+Top-performing pizzas (e.g.,Classic Deluxe, BBQ Chicken) contribute significantly to revenue, and bundling them in combo deals could boost average order value.
+
+Worst-selling pizzas show consistently low demand and could be optimized or replaced.
+
+Average pizzas per order and order value indicate room for upselling and loyalty promotions to increase basket size.
+
+This dashboard enables store managers to adjust menu offerings, pricing, and staff scheduling based on real data.
 
 
 **Note:** This project is adapted from a publicly available tutorial. It was completed as a self-learning exercise to enhance my data analysis and dashboarding skills.
