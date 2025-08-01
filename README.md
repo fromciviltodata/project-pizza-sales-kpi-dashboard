@@ -81,7 +81,9 @@ For learning and GitHub sharing purposes, a dummy dataset with ~1,000 rows is us
 
 ## 🌀 Dashboard Demo (GIF)
 
-[Click here](demo_dashboard_gif.gif)
+<a href="pizza-dashboard.gif">
+  <img src="pizza-dashboard.gif" alt="Dashboard GIF Demo" width="800"/>
+</a>
 ---
 ## 📄 Query Documentation
 All SQL queries used to generate KPIs and trends are documented with screenshots of outputs in the file:
