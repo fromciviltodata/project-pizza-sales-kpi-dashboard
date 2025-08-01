@@ -88,15 +88,15 @@ All SQL queries used to generate KPIs and trends are documented with screenshots
 ## Final Conclusion
 The analysis reveals that:
 
-Most sales occur during lunch and dinner hours, indicating peak demand and the need for increased staffing or oven capacity at those times.
+* Most sales occur during lunch and dinner hours, indicating peak demand and the need for increased staffing or oven capacity at those times.
 
-Large-sized pizzas dominate overall orders, suggesting it may be the most profitable or preferred size.
+* Large-sized pizzas dominate overall orders, suggesting it may be the most profitable or preferred size.
 
-Top-performing pizzas (e.g.,Classic Deluxe, BBQ Chicken) contribute significantly to revenue, and bundling them in combo deals could boost average order value.
+* Top-performing pizzas (e.g.,Classic Deluxe, BBQ Chicken) contribute significantly to revenue, and bundling them in combo deals could boost average order value.
 
-Worst-selling pizzas show consistently low demand and could be optimized or replaced.
+* Worst-selling pizzas show consistently low demand and could be optimized or replaced.
 
-Average pizzas per order and order value indicate room for upselling and loyalty promotions to increase basket size.
+* Average pizzas per order and order value indicate room for upselling and loyalty promotions to increase basket size.
 
 This dashboard enables store managers to adjust menu offerings, pricing, and staff scheduling based on real data.
 
