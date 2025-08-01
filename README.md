@@ -81,7 +81,7 @@ For learning and GitHub sharing purposes, a dummy dataset with ~1,000 rows is us
 
 ## 🌀 Dashboard Demo (GIF)
 
-(demo_dashboard_gif.gif)
+[Click here](demo_dashboard_gif.gif)
 ---
 ## 📄 Query Documentation
 All SQL queries used to generate KPIs and trends are documented with screenshots of outputs in the file:
