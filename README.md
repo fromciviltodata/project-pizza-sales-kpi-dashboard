@@ -77,13 +77,8 @@ For learning and GitHub sharing purposes, a dummy dataset with ~1,000 rows is us
 
 ## 📸 Dashboard Preview
 
-👉 [View Dashboard(Static)](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG)
+👉 [View Dashboard](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG)
 
-## 🌀 Dashboard Demo (GIF)
-
-<a href="pizza-dashboard.gif">
-  <img src="pizza-dashboard.gif" alt="Dashboard GIF Demo" width="800"/>
-</a>
 ---
 ## 📄 Query Documentation
 All SQL queries used to generate KPIs and trends are documented with screenshots of outputs in the file:
