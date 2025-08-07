@@ -77,7 +77,7 @@ For learning and GitHub sharing purposes, a dummy dataset with ~1,000 rows is us
 
 ## Dashboard Preview
 
-👉 [View Dashboard](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG)
+![View Dashboard](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG)
 
 ---
 ## Query Documentation
