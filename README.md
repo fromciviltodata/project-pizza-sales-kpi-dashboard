@@ -6,6 +6,11 @@ This project demonstrates how to build a complete sales performance dashboard us
 ---
 
 
+## Dashboard Preview
+
+![View Dashboard](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG)
+
+---
 ## Question (KPIs)
      Total Revenue
      Average Order Value
@@ -75,9 +80,6 @@ For learning and GitHub sharing purposes, a dummy dataset with ~1,000 rows is us
 
 ---
 
-## Dashboard Preview
-
-![View Dashboard](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG)
 
 ---
 ## Query Documentation
