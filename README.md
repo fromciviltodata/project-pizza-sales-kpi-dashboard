@@ -1,75 +1,76 @@
-# 🍕 Pizza Sales Analysis Dashboard (Excel + SQL)
-
-## 📊 Overview
-This project demonstrates how to build a complete sales performance dashboard using MySQL for data analysis and Excel for data visualization. It's an ideal beginner-friendly project that combines core SQL query skills with Excel pivot tables and charting.
-
----
-
-
-## Dashboard Preview
-
+# 🍕 Pizza Sales Analysis (Excel Dashboard Project)
 ![View Dashboard](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG)
 
----
-## Question (KPIs)
-     Total Revenue
-     Average Order Value
-     Total Pizzas Sold
-     Total No. of Orders
-     Average Pizzas per Order
+## 📊 Project Overview
+This project analyzes over 21,000 pizza orders containing 49,000+ pizzas sold.
+The interactive Excel dashboard highlights sales trends, customer preferences, and product performance, giving clear insights into revenue drivers and improvement opportunities.
 
-## Charts to Develop
-     Daily Trends for Total Orders
-     Hourly Trends for Total Orders
-     Pie and donut charts to break down sales % by category and size
-     Total Pizzas Sold by Pizza Category
-     Top 5 Best sellers by Total Orders
-     Bottom 5 Worst seller by Total Orders
-     Slicer for time-based filtering (Quarter , Year)
+The project demonstrates my skills in:
 
-## Project Workflow
-**1. Data Cleaning**
+- Cleaning and structuring raw sales data.
+
+- Building meaningful KPIs.
+
+- Creating a visually clear, insight-driven dashboard.
+
+- Translating numbers into **actionable recommendations** — the core of a data analyst’s role.
+
+### 🚀 Key KPIs
+
+* **Total Revenue:** $817,860
+
+* **Average Order Value:** $38.31
+
+* **Total Orders:** 21,350
+
+* **Total Pizzas Sold:** 49,574
+
+* **Average Pizzas per Order:**  2.32
+
+### 📈 Insights & Storytelling
+
+**1. Busiest Days & Times**
+
+- Peak orders on **Fridays & Saturdays evenings.**
+
+- Demand spikes between **12–1 PM** and **4–8 PM** — critical for staffing and supply chain.
+
+**2. Sales by Category & Size**
+
+- **Classic pizzas** are the top revenue and order contributor.
+
+- **Large size pizzas** drive maximum sales volume.
+
+**3. Best & Worst Sellers**
+
+- **The Classic Deluxe Pizza** and Chicken variants dominate sales.
+
+- **The Brie Carre Pizza** consistently underperforms.
+
+**4. Customer Preferences**
+
+- Even distribution across **Classic (26.9%), Supreme (25.4%), Veggie (24%), and Chicken (23.7%)** categories.
+
+- Regular & Large sizes together make up 75% of sales, showing strong preference for family-sized orders.
+
+**5. Hourly & Weekly Trends**
+
+- Strong weekday sales with a clear **weekend uplift.**
+
+- Sales peak around **lunch and dinner hours.**
+
+### 💡 Business Recommendations
+
+* **Menu Optimization:** Consider removing or re-branding underperformers (e.g., Brie Carre).
+
+* **Promotions:** Focus campaigns around weekends and evening slots to maximize ROI.
+
+* **Inventory Planning:** Stock Classic + Large pizzas higher to reduce order delays.
+
+* **Cross-Selling:** Bundle chicken pizzas with sides during peak hours.
 
 
-    Cleaned raw pizza order data using Excel (handled missing values, column naming, data types).
 
-**2. SQL Analysis**
-
-* Imported cleaned dataset into MySQL.
-
-* Wrote multiple SQL queries to calculate:
-
-        Total Revenue
-
-        Average Order Value
-
-        Pizzas Sold
-
-        Daily/Hourly Order Trends
-
-        Best/Worst Sellers
-
-        Category/Size-wise Sales Distribution
-
-**3. Excel Dashboard**
-
-        Created Pivot Tables, Charts, and KPIs.
-
-        All values cross-verified with SQL results for accuracy.
-
-
----
-
-## Tools Used
-**Microsoft Excel** – Pivot Tables, Charts, Calculations
-
-**MySQL** – Data Querying & KPI Generation
-
-**MS Word** – Documented all queries with outputs and screenshots
-
-
-
----
 ## Dataset
 
 The original dataset contains over 48,000 rows of pizza order transactions.  
