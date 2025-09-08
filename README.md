@@ -1,6 +1,5 @@
 # 🍕 Pizza Sales Analysis (Excel Dashboard Project)
 ![View Dashboard](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/dahsboard_image.JPG)
-
 ## 📊 Project Overview
 This project analyzes over 21,000 pizza orders containing 49,000+ pizzas sold.
 The interactive Excel dashboard highlights sales trends, customer preferences, and product performance, giving clear insights into revenue drivers and improvement opportunities.
