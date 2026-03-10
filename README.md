@@ -70,16 +70,6 @@ The project demonstrates my skills in:
 
 
 
-## Dataset
-
-The original dataset contains over 48,000 rows of pizza order transactions.  
-For learning and GitHub sharing purposes, a dummy dataset with ~1,000 rows is used here.
-
-👉 [Download Dataset](https://github.com/fromciviltodata/project-pizza-sales-kpi-dashboard/blob/main/project_pizza_sales_excel.xlsx)
-
-
----
-
 
 ---
 ## Query Documentation
